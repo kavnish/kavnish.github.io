@@ -2,5 +2,8 @@
 
 source "https://rubygems.org"
 
-gemspec
+gemspec 
+'webrick'
 
+
+gem "webrick", "~> 1.8"

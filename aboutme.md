@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: All the things we can talk about
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Avnish Kumar. Below is an (over)-extended list of my interests:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Music (Hip-Hop/Hard-Rock/Electronic/Classical/Jazz(sometimes))
+- Sci-Fi Work (Love Death + Robots IS AMAZING!!)
+- Combat Sports (I practice boxing)
+- Browser Extensions For Information Management
+- Recommendation Products (especially Music!!)
+- At Intersection of ML & Audio (especially MIR)
+- Audio Engineering & Sound Design
+- Biology (Embroylogy & Genomics)
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now ...
