@@ -23,9 +23,9 @@ navbar-links:
   Home: "index"
   Blog: "blog"
   CV: "cv"
-  Reading List:
-    misc: "book-shelf"
-    Books: "book-shelf"
+  Reading-List:
+  - Books: "book-shelf"
+  - Misc: "book-shelf"
   About Me: "aboutme"
 
 
