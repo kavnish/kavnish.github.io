@@ -36,6 +36,18 @@
   </li>
 {%- endif -%}
 
+{%- if site.social-network-links.goodreads -%}
+  <li class="list-inline-item">
+    <a href="https://www.goodreads.com/user/show/{{ site.social-network-links.goodreads }}" title="GoodReads">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-book fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">GoodReads</span>
+   </a>
+  </li>
+{%- endif -%}
+
 {%- if site.social-network-links.facebook -%}
   <li class="list-inline-item">
     <a href="https://www.facebook.com/{{ site.social-network-links.facebook }}" title="Facebook">

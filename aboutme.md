@@ -12,11 +12,8 @@ My name is Avnish Kumar. Below is an (over)-extended list of my interests:
 - Browser Extensions For Information Management
 - Recommendation Products (especially Music!!)
 - At Intersection of ML & Audio (especially MIR)
+- Topic Mining 
 - Audio Engineering & Sound Design
 - Biology (Embroylogy & Genomics)
 
 What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now ...

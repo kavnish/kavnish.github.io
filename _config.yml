@@ -10,20 +10,25 @@
 ############################
 
 # Name of website
-title: Home
+title: Avnish Kumar
 
 # Your name to show in the footer
-author: Avnish
+author: Avnish Kumar
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
+  Home: "index"
+  Blog: "blog"
+  CV: "cv"
+  Reading List:
+    misc: "book-shelf"
+    Books: "book-shelf"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-  Author's home: "https://kavnish.github.io"
+
+
 
 ################
 # --- Logo --- #
@@ -52,6 +57,7 @@ social-network-links:
   github: kavnish
   twitter: 24avnish
   linkedin: imavnishkumar
+  goodreads: "93232126-avnish-kumar"
 #  facebook: false
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  patreon: false
@@ -183,7 +189,7 @@ footer-hover-col: "#0085A1"
 ####################
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "disqus_g047L8hN6g"
+disqus: "comm-11"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
