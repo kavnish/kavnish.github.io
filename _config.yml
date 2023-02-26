@@ -21,7 +21,7 @@ author: Avnish Kumar
 
 navbar-links:
   Home: "/index"
-  Blog: "/blog"
+  Blog: "/pages/blog"
   CV: "/cv"
   Reading-List:
   - Books: "/pages/book-shelf"
