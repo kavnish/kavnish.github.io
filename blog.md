@@ -3,7 +3,7 @@ layout: default
 title: Blog
 published: false
 ---
-<p>Here are my blog posts in reverse chronological order:</p>
+<h4>Here are my blog posts</h4>
 
 <ul>
   {% for post in site.posts %}
