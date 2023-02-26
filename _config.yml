@@ -24,8 +24,8 @@ navbar-links:
   Blog: "/blog"
   CV: "/cv"
   Reading-List:
-  - Books: "/collections/pages/book-shelf"
-  - Misc: "/collections/pages/papers-and-articles"
+  - Books: "/pages/book-shelf"
+  - Misc: "/pages/papers-and-articles"
   About Me: "aboutme"
 
 #######################
