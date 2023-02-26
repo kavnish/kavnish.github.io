@@ -16,4 +16,4 @@ My name is Avnish Kumar. Below is an (over)-extended list of my interests:
 - Audio Engineering & Sound Design
 - Biology (Embroylogy & Genomics)
 
-What else do you need?
+the things we can talk about. What else do you need? 

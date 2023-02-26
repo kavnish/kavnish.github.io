@@ -24,11 +24,17 @@ navbar-links:
   Blog: "blog"
   CV: "cv"
   Reading-List:
-  - Books: "book-shelf"
-  - Misc: "book-shelf"
+  - Books: "/collections/pages/book-shelf"
+  - Misc: "/collections/pages/papers-and-articles"
   About Me: "aboutme"
 
+#######################
+# --- collections --- #
+#######################
 
+collections:
+  pages:
+    output: true
 
 ################
 # --- Logo --- #
@@ -165,7 +171,7 @@ footer-hover-col: "#0085A1"
 #################################
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "G-5G545VR9PD"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 #google_analytics: ""
@@ -291,7 +297,4 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
 
