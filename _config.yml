@@ -20,9 +20,9 @@ author: Avnish Kumar
 ###############################################
 
 navbar-links:
-  Home: "index"
-  Blog: "blog"
-  CV: "cv"
+  Home: "/index"
+  Blog: "/blog"
+  CV: "/cv"
   Reading-List:
   - Books: "/collections/pages/book-shelf"
   - Misc: "/collections/pages/papers-and-articles"
@@ -31,12 +31,6 @@ navbar-links:
 #######################
 # --- collections --- #
 #######################
-
-collections:
-  pages:
-    output: true
-  posts:
-    output: true
 
 ################
 # --- Logo --- #
