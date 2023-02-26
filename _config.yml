@@ -35,6 +35,8 @@ navbar-links:
 collections:
   pages:
     output: true
+  posts:
+    output: true
 
 ################
 # --- Logo --- #
