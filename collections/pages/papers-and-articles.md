@@ -2,10 +2,7 @@
 layout: page
 title: Papers & Articles
 subtitle: Papers I am reading, Sometimes with notes!
-# cover-img: /assets/img/book-shelf.png
-thumbnail-img: /assets/img/books.jpg
-share-img: /assets/img/path.jpg
-tags: [Books, Reading-list]
+tags: [books, reading-list, papers, articles]
 readtime: true
 show-avatar: true
 nav-short: true
