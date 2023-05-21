@@ -9,10 +9,13 @@ nav-short: true
 full-width: false
 ---
 
+Mar23 -
+- Token Merging: Your ViT but Faster
+
 Feb23 - 
 - MusicLM
 - [Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238)
--  Ethan Manilow's PhD thesis on Music Scene Anylasis
+- Ethan Manilow's PhD thesis on Music Scene Analysis
 
 December22
 - Transformer Formal Algorithms
@@ -21,11 +24,13 @@ Nov22
 - Factorization Machines
 - DeepFM
 - xDeepFm
+- DCNs
 - DLRM
 - PNNs
+- Deep Interest Evolution Networks
 
 August22
-- Mostra (recsys22)
+- MOSTRA from Spotify(RecSys22)
 - MT3 (google-magenta)
 - VQ-VAEs Original Paper
 - JukeBox

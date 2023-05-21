@@ -23,6 +23,7 @@ navbar-links:
   Home: "/index"
   Blog: "/pages/blog"
   CV: "/cv"
+  Projects: "/pages/projects"
   Reading-List:
   - Books: "/pages/book-shelf"
   - Misc: "/pages/papers-and-articles"
