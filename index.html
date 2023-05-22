@@ -21,3 +21,13 @@ use-site-title: true
 When I’m not doing ML, I like walk, workout, read/watch fiction, mess with DAWs.
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+<h4>Here are my blog posts</h4>
+
+<ul>
+  {% for post in site.posts %}
+    <li class="spaced">
+      <a href="{{ post.url }}">{{ post.title }}</a>  {{ post.date | date_to_long_string }}
+    </li>
+  {% endfor %}
+</ul>
