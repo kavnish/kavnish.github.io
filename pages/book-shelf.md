@@ -18,10 +18,23 @@ full-width: false
 <table align="center">
   <tr>
     <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑⭑</td>
+  </tr>
+  <tr>
+    <td><img src="https://m.media-amazon.com/images/I/61EN1899XlL.jpg" width=175 height=250></td>
+  </tr>
+</table >
+
+<hr style="height:10px; visibility:hidden;" />
+
+<table align="center">
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑</td>
+    <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑⭑</td>
     <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑</td>
     <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑⭑</td>
   </tr>
   <tr>
+    <td><img src="https://m.media-amazon.com/images/I/71eNM9csbyL.jpg" width=175 height=250></td>
     <td><img src="https://m.media-amazon.com/images/I/818OVMk5orL.jpg" width=175 height=250></td>
     <td><img src="https://m.media-amazon.com/images/I/81HZVq2FS0L.jpg" width=175 height=250></td>
     <td><img src="https://m.media-amazon.com/images/I/71l64qlkQ1L.jpg" width=175 height=250></td>
