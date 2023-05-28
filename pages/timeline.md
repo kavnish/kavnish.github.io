@@ -9,6 +9,14 @@ full-width: false
 published: true
 ---
 
+**2023-05-28**
+
+`aren't we all using github stars as bookmarks?`
+
+**2023-05-27**
+
+`Something should keep track of bugs avoided during PR reviews.`
+
 **2023-05-25**
 
 `we have done a good job of documenting almost all our knowledge textually. (which might come back to bite us.)`
