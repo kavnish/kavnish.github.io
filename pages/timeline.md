@@ -9,6 +9,10 @@ full-width: false
 published: true
 ---
 
+**2023-05-29**
+
+`wrote a shell utility to push updates to timeline.md with timestamps (creating this update using that)`
+
 **2023-05-28**
 
 `aren't we all using github stars as bookmarks?`
