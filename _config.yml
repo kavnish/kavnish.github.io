@@ -20,11 +20,10 @@ author: Avnish Kumar
 ###############################################
 
 navbar-links:
-  Home: "/index"
-  Blog: "/pages/blog"
+  Timeline: "/pages/timeline"
+  Posts: "/pages/blog"
   CV: "/cv"
   Projects: "/pages/projects"
-  Timeline: "/pages/timeline"
   Reading-List:
     - Books: "/pages/book-shelf"
     - Misc: "/pages/papers-and-articles"
