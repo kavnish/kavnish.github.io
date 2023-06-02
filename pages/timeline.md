@@ -9,6 +9,22 @@ full-width: false
 published: true
 ---
 
+**2023-05-31**
+
+`someone gift me one year of github copilot pls`
+
+**2023-05-31**
+
+`'The Perfect Match' is a thought-provoking short story that presents a case for cultural imperialism. It explores how our reliance on technology and AI systems can lead to a loss of individuality and control. The story raises important questions about the impact of technology on our lives and the need for balance between progress and preservation of our humanity. It is a must-read for those interested in the intersection of technology and society, and the potential consequences of our increasing dependence on AI systems.`
+
+**2023-05-30**
+
+`bfs vs dfs while trying to make sense of a huge repo`
+
+**2023-05-29**
+
+`nothing can match the feeling of getting an LLM to respond to queries it was refusing earlier`
+
 **2023-05-29**
 
 `wrote a shell utility to push updates to timeline.md with timestamps (creating this update using that)`
