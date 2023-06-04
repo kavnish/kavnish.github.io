@@ -9,6 +9,20 @@ full-width: false
 published: true
 ---
 
+**2023-06-04**
+
+`this weekend was mostly about setting up math equation support for the blog and learn some latex on the way and understanding the DPO paper`
+
+
+**2023-06-04**
+
+`High Recommended - https://ciechanow.ski/sound/`
+
+
+**2023-06-03**
+
+`if you want to write math equations on a Jekyll site for the first time - simply use mathjax v3 script with chtml renderer - it's plain simple and lets you have consistent render across browsers.`
+
 **2023-05-31**
 
 `someone gift me one year of github copilot pls`
