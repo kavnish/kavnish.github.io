@@ -9,6 +9,21 @@ full-width: false
 published: true
 ---
 
+**2023-06-16**
+
+`reddit blackout is not about api pricing, it's for something way more important -- the direction reddit seem to be heading`
+
+
+**2023-06-16**
+
+`our top priority should be to finetune llms to respond to token limits mentioned in the context`
+
+
+**2023-06-15**
+
+`LSTMs cells pass both cell, hidden state to the next cell and in a stacked LSTM setup the outputs of the first layer is used as inputs to the corresponding LSTM cells in the next layer (the hidden and cell states are only shared within the layer)`
+
+
 **2023-06-04**
 
 `this weekend was mostly about setting up math equation support for the blog and learn some latex on the way and understanding the DPO paper`
@@ -16,7 +31,7 @@ published: true
 
 **2023-06-04**
 
-`High Recommended - https://ciechanow.ski/sound/`
+`High Recommended - ` https://ciechanow.ski/sound/
 
 
 **2023-06-03**

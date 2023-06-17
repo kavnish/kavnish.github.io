@@ -10,7 +10,8 @@ full-width: false
 published: false
 ---
 
-Outline 
+Outline
+
 - History
 - Token Merging by Meta
 - Experiments
