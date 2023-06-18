@@ -9,6 +9,11 @@ full-width: false
 published: true
 ---
 
+**2023-06-18**
+
+`this weekend was all about automations and extenstion on chrome, macos, slack... had a good time exploring applescript, filesaver.js, electron.js, slack SDK, ... ChatGPT makes things a lot easier but it still takes a lot to build something meaning. I guess this weekend was a good reminder of planning things out first on paper before jumping to code (and you def need a devlog to prevent yourself from all the cool distractions)`
+
+
 **2023-06-16**
 
 `reddit blackout is not about api pricing, it's for something way more important -- the direction reddit seem to be heading`
