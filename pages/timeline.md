@@ -9,6 +9,11 @@ full-width: false
 published: true
 ---
 
+**2023-06-21**
+
+`Everyone has their own way of using like/stat/bookmark buttons and recsys need to understand it at the user level
+, You can either train a single model to learn these pattern or individual model for each user former poses the issue of insuring that each user has some representation in the traing data and later poses some operational limitations and weak cross user learning`
+
 **2023-06-18**
 
 `this weekend was all about automations and extenstion on chrome, macos, slack... had a good time exploring applescript, filesaver.js, electron.js, slack SDK, ... ChatGPT makes things a lot easier but it still takes a lot to build something meaningful. This weekend was a good reminder of planning things out first on paper before jumping to code (and you def need a devlog to prevent yourself from all the cool distractions)`
