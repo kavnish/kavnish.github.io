@@ -11,8 +11,11 @@ published: true
 
 **2023-06-21**
 
-`Everyone has their own way of using like/stat/bookmark buttons and recsys need to understand it at the user level
-, You can either train a single model to learn these pattern or individual model for each user former poses the issue of insuring that each user has some representation in the traing data and later poses some operational limitations and weak cross user learning`
+`Different Features have different affinities towards different features and if the user specifiers are not made available to the model it becomes diffucult to learn user level sensitivities towards different user. Hand crafting meta level sensitivity features comes handy here but not to total relied as sometimes they are very difficult to craft and excludes unimaginable patterns that you might not have thought about`
+
+**2023-06-21**
+
+`Everyone has their own way of using like/stat/bookmark buttons and recsys need to understand it at the user level, You can either train a single model to learn these pattern or individual model for each user former poses the issue of insuring that each user has some representation in the traing data and later poses some operational limitations and weak cross user learning`
 
 **2023-06-18**
 
