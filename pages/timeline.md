@@ -9,6 +9,11 @@ full-width: false
 published: true
 ---
 
+**2023-06-24**
+
+`AI tools only needed to be as good to pull a significant number of human users/interactions, I think we are past that threshold and AI systems will continue to improve as we use them. (there will be need for other technical augmentations to patch the limitations of transformers though.)`
+
+
 
 
 **2023-06-21**
