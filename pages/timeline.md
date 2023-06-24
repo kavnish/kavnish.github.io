@@ -14,11 +14,9 @@ published: true
 `AI tools only needed to be as good to pull a significant number of human users/interactions, I think we are past that threshold and AI systems will continue to improve as we use them. (there will be need for other technical augmentations to patch the limitations of transformers though.)`
 
 
-
-
 **2023-06-21**
 
-`users have different affinities towards different features and if the user specifiers are not made available to the model it becomes diffucult to learn user level sensitivities towards different user. Hand crafting meta level sensitivity features comes handy here but not to total relied as sometimes they are very difficult to craft and excludes unimaginable patterns that you might not have thought about`
+`Users have different affinities towards different features and if the user specifiers are not made available to the model it becomes diffucult to learn user level sensitivities towards different features. Hand crafting meta level sensitivity features comes handy here but not to total relief as sometimes they are very difficult to craft and excludes unimaginable patterns that you might not have thought about.`
 
 `We looked at similarities between a users collaborative vector and average collaborative vectors of last N played and skipped songs, and the results were not as expected, apparently on a music streaming platform the songs that user skipps are not VERY different from the songs they streamed (>30s), when I think about it, it makes sense as the platform is already personalized to a level and the user only gets to skips the platform thought the user might like, Interesting thing to look at might be what fraction of skipped songs are out of their profile (beyond a threshold) as it tells us alot about how discover exposure does our platform provides. Discover exposure is itself of multiple flavour but that's the topic of another post. (Personalized/Random)` 
 
