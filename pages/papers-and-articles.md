@@ -9,6 +9,16 @@ nav-short: true
 full-width: false
 ---
 
+June23
+- DPO paper
+- Self-Supervised learning cookbook
+
+May23
+- 
+
+April23
+- AudioGPT
+
 Mar23 -
 - Token Merging: Your ViT but Faster
 

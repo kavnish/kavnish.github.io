@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Book Notes
+title: Book Reviews/Notes
 ---
-
-
-Brief Review for Some of the Books
 
 
 ### Exhalation [5/5]
