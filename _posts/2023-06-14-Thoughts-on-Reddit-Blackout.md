@@ -18,4 +18,4 @@ I think this instances is an opportunity for us to think about what we want out 
 
 Also what is this sudden hunger for profit, thing have been going pretty good like the way it is, why is management ready to sacrifice the soul of reddit for the profits, adherence to moderators which are putting in efforts day in and out to keep it a sane place.
 
-It’s not just about he APP or API.
+It’s not just about the APP or API.

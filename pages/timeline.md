@@ -13,6 +13,8 @@ published: true
 
 `People say music bring back memories just some fragnances do sometime, exploring ways to create nostalgic mixes for 50M+ users efficiently.`
 
+`I am so into chrome extensions now that I have an extension to manage manage extensions better.`
+
 **2023-06-28**
 
 `Solved the tab issue by writing a chrome extensions which pushes all my new tabs to the left if active tab is not in a group else it would open it in the group.`
