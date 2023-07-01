@@ -7,7 +7,7 @@ readtime: true
 show-avatar: false
 nav-short: true
 full-width: false
-published: false
+published: true
 comments: false
 ---
 

@@ -12,12 +12,21 @@ full-width: false
 June23
 - DPO paper
 - Self-Supervised learning cookbook
+- Efficient music generation
+- MuseGen
+- Lora
+- Qlora
+- llama adaptors
+- llama index
+- Textbooks is all you need
 
 May23
-- 
+- Whisper
+- MusCALL
 
 April23
 - AudioGPT
+- Twitter recommendation algorithm
 
 Mar23 -
 - Token Merging: Your ViT but Faster
