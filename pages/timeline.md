@@ -9,6 +9,22 @@ full-width: false
 published: true
 ---
 
+**2023-07-01**
+
+`People say music bring back memories just some fragnances do sometime, exploring ways to create nostalgic mixes for 50M+ users efficiently.`
+
+**2023-06-28**
+
+`Solved the tab issue by writing a chrome extensions which pushes all my new tabs to the left if active tab is not in a group else it would open it in the group.`
+
+**2023-06-28**
+
+`I don't understand why tab like UIs always have new tab opening on the right side, I think new tabs should always open on the left side that's where it's easier for me atleast (and couple this with chromes limit on number of visible tab buttons in the tab bar, new tabs on the left make even more sense as your new tabs are always visible)`
+
+**2023-06-26**
+
+`People say music bring back memories just some fragnances do sometime, exploring ways to create nostalgic mixes for 50M+ users efficiently.`
+
 **2023-06-25**
 
 `conditional-sampling is the new creativity`
