@@ -9,9 +9,20 @@ full-width: false
 published: true
 ---
 
+**2023-07-03**
+
+`writing is hard and therapeutic at the same time. it takes time to develope a muscle for it. also it's is incompelete without reading what you have written.`
+
+
+**2023-07-03**
+
+`I try to keep a getting-of-the-chair note while working, it makes jumping back into the paused tasks way easier.'`
+
+
+
 **2023-07-01**
 
-`People say music bring back memories just some fragnances do sometime, exploring ways to create nostalgic mixes for 50M+ users efficiently.`
+`People say music bring back memories just like fragnances do sometime, exploring ways to create nostalgic mixes for 50M+ users efficiently.`
 
 `I am so into chrome extensions now that I have an extension to manage manage extensions better.`
 
