@@ -11,7 +11,7 @@ published: true
 
 **2023-07-03**
 
-`writing is hard and therapeutic at the same time. it takes time to develope a muscle for it. also it is incompelete without reading what you have written.`
+`writing is hard and therapeutic at the same time and is incompelete without reading what you have written. it takes time to develope a muscle for it.`
 
 
 **2023-07-03**
