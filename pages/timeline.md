@@ -9,6 +9,15 @@ full-width: false
 published: true
 ---
 
+**2023-07-04**
+
+`Fun thing I noticesd in TBBT-ep-17 -- Sheldon is portrayed as super smart person but still he's having a hard time learning the mandarin language. writers played that out in a fun way without it feeling sheldon going out of character. -- or maybe it's just me assuming that smart people learn languages quickly.`
+
+**2023-07-03**
+
+`Had a six people connect today all from different parts of the organization, one learning was to ask people to hold off questions till the ends or checkpoints if the session in sub 30min. the person presenting must have the control of the session. having a checkpoint in the middle should be enough.`
+
+
 **2023-07-03**
 
 `writing is hard and therapeutic at the same time and is incompelete without reading what you have written. it takes time to develope a muscle for it.`
