@@ -2,12 +2,12 @@
 layout: default
 title: Blog
 ---
-<h4>Here are my blog posts</h4>
 
-<ul>
+<ul style="list-style: none;">
+  <h3 style="margin-bottom: 20px;">Blog Posts</h3>
   {% for post in site.posts %}
-    <li class="spaced">
-      <a href="{{ post.url }}">{{ post.title }}</a>  {{ post.date | date_to_long_string }}
+    <li class="spaced" style="margin-bottom: 10px;">
+      {{ post.date | date: "%Y-%m-%d" }}  <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>

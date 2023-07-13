@@ -9,6 +9,11 @@ nav-short: true
 full-width: false
 ---
 
+July23
+- I-JEPA by meta
+- Why people skip music? On Predicting Music Skips using Deep Reinforcement learning
+- MARBLE 
+
 June23
 - DPO paper
 - Self-Supervised learning cookbook

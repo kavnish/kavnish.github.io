@@ -15,12 +15,16 @@ published: true
 - Already high CTR
 - Multiple fallback systems
 - Online
+- Custom Loss function handling (intend based)[] sample weights 
 
-#### Content Based Recommender system for Movies
+#### Content Recommender system for Movies
 
 - low data availability setup
 - Multiple fallback systems
 - Online
+- popularity metric
+- Cooccurence based model
+- Collaborative Filtering initial version
 
 #### Realtime Speech Recognition for JioMeet
 
