@@ -9,6 +9,11 @@ full-width: false
 published: true
 ---
 
+**2023-07-15**
+
+`Making something digitally available doesn’t mean it will create new demand? or does it? eg synths?`
+
+
 **2023-07-04**
 
 `Fun thing I noticesd in TBBT-ep-17 -- Sheldon is portrayed as super smart person but still he's having a hard time learning the mandarin language. writers played that out in a fun way without it feeling sheldon going out of character. -- or maybe it's just me assuming that smart people learn languages quickly.`
