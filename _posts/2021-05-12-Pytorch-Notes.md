@@ -42,9 +42,8 @@ Strided slicing: You can use strided slicing to extract elements from a tensor w
 
 `x[:, ::2] would extract all rows and every other column of the tensor x.`
 
-> Note- different slicing methods return tensors with different shapes. 
 
-So these are the most used ways to slice a tensor. I will add more information about creating masks (i.e. tensors which are of same shape as the original tensors) in later posts.And will also update this post with how the memory allocation of the sliced tensors work, Is it assigned new memory or is there any cool way to minimize the memory footprint.
+So these are the most used ways to slice a tensor. Note that different slicing methods return tensors with different shapes based on the slicing. There might be requirements where the values of the selected indexes/dimensions is needed in the orignal shape with everythong else as zero which is usually solved by creating a mask. I will add more information about creating masks (i.e. tensors which are of same shape as the original tensors) in later posts.And will also update this post with how the memory allocation of the sliced tensors work, Is it assigned new memory or is there any cool way to minimize the memory footprint.
 
 
 
