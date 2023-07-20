@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blog
+show-avatar: false
 ---
 
 <ul style="list-style: none;">

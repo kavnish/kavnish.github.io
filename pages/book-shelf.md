@@ -4,7 +4,7 @@ title: Book Shelf
 subtitle: Books I have read and brief Review for some of them
 tags: [Books, Reading-list]
 readtime: true
-show-avatar: true
+show-avatar: false
 nav-short: true
 full-width: false
 ---

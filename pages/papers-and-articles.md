@@ -4,7 +4,7 @@ title: Papers & Articles
 subtitle: Papers I am reading, Sometimes with notes!
 tags: [books, reading-list, papers, articles]
 readtime: true
-show-avatar: true
+show-avatar: false
 nav-short: true
 full-width: false
 ---
