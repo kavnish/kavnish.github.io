@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: All the things we can talk about
+show-avatar: false
 ---
 
 My name is Avnish Kumar. Below is a (brief) list of my interests:

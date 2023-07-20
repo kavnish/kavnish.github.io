@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Book Reviews/Notes
+show-avatar: false
 ---
 
 
