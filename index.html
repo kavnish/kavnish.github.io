@@ -18,16 +18,16 @@ use-site-title: true
     Previously, I attended <a href = "https://en.wikipedia.org/wiki/IIT_(BHU)_Varanasi"> IIT BHU </a> for Engineering from 2015-2019.
 </p>
 
-When I’m not doing ML, I like walk, workout, read/watch fiction, mess with DAWs.
+When I'm not doing ML, I like walk, workout, read/watch fiction, mess with DAWs.
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<h4>Here are my blog posts</h4>
+<h4>Posts</h4>
 
-<ul>
+<ul style="list-style: none;">
   {% for post in site.posts %}
-    <li class="spaced">
-      <a href="{{ post.url }}">{{ post.title }}</a>  {{ post.date | date_to_long_string }}
+    <li class="spaced" style="margin-bottom: 10px;">
+      {{ post.date | date: "%Y-%m-%d" }}  <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
