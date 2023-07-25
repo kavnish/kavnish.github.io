@@ -60,7 +60,7 @@ Preventing out-of-memory errors is crucial for efficient pipeline execution. Con
 
 - Optimize the pipeline logic to reduce unnecessary computations.
 - Sample the data to reduce the memory footprint during development.
-- Use checkpointing to store intermediate results and free up memory.
+- Use check-pointing to store intermediate results and free up memory.
 
 --
 
