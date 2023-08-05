@@ -17,10 +17,14 @@ full-width: false
 
 <table align="center">
   <tr>
+    <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑⭑</td>
+    <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑⭑</td>
     <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑</td>
     <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑</td>
   </tr>
   <tr>
+    <td><img src="https://m.media-amazon.com/images/I/81QOkf8RSIL.jpg" width=175 height=250></td>
+    <td><img src="https://m.media-amazon.com/images/I/616tJh592KL.jpg" width=175 height=250></td>
     <td><img src="https://m.media-amazon.com/images/I/61EN1899XlL.jpg" width=175 height=250></td>
     <td><img src="https://m.media-amazon.com/images/I/A1NQCPdK9UL.jpg" width=175 height=250></td>
   </tr>
