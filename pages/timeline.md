@@ -9,6 +9,11 @@ full-width: false
 published: true
 ---
 
+**2023-08-08**
+
+`sign language should be the only allowed language in gyms.`
+
+
 **2023-07-27**
 
 `audio modality trade-offs information density for higher dimensionality, I believe solving audio efficiently needs a whole another approach that would involve first bringing the dimentionality down to discrete tokens and then learning those tokens autoregressively. Just that this audio quantization step should be audio segment importance/eventful-ness aware since our ears are sensitive to very ephemeral acoutic events which might not be avery efficiently modelled by current frame based methods.`
