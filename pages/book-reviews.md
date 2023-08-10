@@ -8,7 +8,7 @@ show-avatar: false
 
 #### by Anne Frank
 
-It’s a record of Anger, Suffering, levity, Romance, Support, and above all Hope — which ends with a betrayal (albeit there’s no mention of it in the Diary). Anne, a Charming, Intelligent, Articulate, Emotional, Self Critical (in the later part of the Diary) girl makes you privy to the raw emotions, rants, stories.  Her longing for someone to confide in. How abandoned she was feeling in the Annexe. It’s vivid description of life in Annexe from a fourteen-year-old’s point of view.
+It’s a record of Anger, Suffering, Levity, Romance, Support, and above all Hope — which ends with a betrayal (albeit there’s no mention of it in the Diary). Anne, a Charming, Intelligent, Articulate, Emotional, Self Critical (in the later part of the Diary) girl makes you privy to the raw emotions, rants, stories.  Her longing for someone to confide in. How abandoned she was feeling in the Annexe. It’s vivid description of life in Annexe from a fourteen-year-old’s point of view.
 
 ### Exhalation [5/5]
 
