@@ -8,9 +8,7 @@ show-avatar: false
 
 #### by Anne Frank
 
-In 1941 when German armies invaded Netherlands, Anne Frank and her family went into hiding in a secret annex in Amsterdam. Anne Frank was 13 years old at that time. She started writing a diary in which she recorded her fears, hopes, and experiences during the war which was published in 1947.
-
-The book takes you through the life and outlook of a thirteen year old girl who unlike an average thirteen year old has deep emotional and expressive maturity(at least in writing). If you want to understand how it is like to be a child in an annex, this is the book to read.
+It’s a record of Anger, Suffering, Comedy, Romance, Support, and above all Hope — which ends with a betrayal (albeit there’s no mention of it in the Diary). Anne, a Charming, Intelligent, Articulate, Emotional, Self Critical (in the later part of the Diary) girl makes you privy to the raw emotions, rants, stories.  Her longing for someone to confide in. How abandoned she was feeling in the Annexe. It’s vivid description of life in Annexe from a fourteen-year-old’s point of view.
 
 ### Exhalation [5/5]
 

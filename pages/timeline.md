@@ -11,6 +11,11 @@ published: true
 
 **2023-08-08**
 
+`chrome should take the current url as a signal when searching on the same tab`
+
+
+**2023-08-08**
+
 `sign language should be the only allowed language in gyms.`
 
 
