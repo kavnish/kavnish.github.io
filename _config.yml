@@ -24,9 +24,7 @@ navbar-links:
   Posts: "/pages/blog"
   CV: "/cv"
   Projects: "/pages/projects"
-  Reading-List:
-    - Books: "/pages/book-shelf"
-    - Misc: "/pages/papers-and-articles"
+  Books: "/pages/book-shelf"
   About Me: "aboutme"
 
 #######################
