@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on Cross-Entory and Negative-Log-Likelihood
+title: Notes on Cross-Entropy and Negative-Log-Likelihood
 subtitle: ____
 tags: [ml, notes]
 readtime: true
