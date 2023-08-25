@@ -7,15 +7,17 @@ readtime: true
 show-avatar: false
 nav-short: true
 full-width: false
-published: false
+published: true
 ---
 
+There are a number of ways you can slice(hop-slice) a pytorch tensor. Below is a list of operation used during tensor operations while writing a NN module.
 
-There are a number of ways you can slice(hop-slice) a pytorch tensor. Some of the most used ways are below.
 
 Indexing: Indexing returns single elements from the tensor. For example, 
 
 `x[0, 1] would extract the element at row 0, column 1 of the tensor x.`
+
+Note - `x[[0, 1]] would return the First and Second Row (index from the first dimension) of the tensor`
 
 
 Multi Indexing: multi indexing can be used to selected different elements from a tensor based on their positions. For example, 
@@ -30,15 +32,15 @@ Slicing: the : can be used to extract a range of indexes from a particular dimen
 
 `x[:, 1:3] would extract all rows and columns 1 through 2 of the tensor x.`
 
-Ellipsis slicing: You can use ellipsis slicing to extract a sub-tensor from a larger tensor along multiple dimensions. It is just a way to avoid using mutiple : to extract multiple dimensions. For example, 
+Ellipsis slicing: You can use ellipsis slicing to extract a sub-tensor from a larger tensor along multiple dimensions. It is just a way to avoid using multiple : to extract multiple dimensions. For example, 
 
 `x[..., 1:3] would extract all elements along the first dimension and columns 1 through 2 of the tensor x.`
 
-Newaxis slicing: You can use newaxis slicing to add a new dimension to a tensor. For example, 
+New-Axis: You can use new-axis slicing to add a new dimension to a tensor. For example, 
 
 `x[:, None, :] would add a new dimension between the first and second dimensions of the tensor x.`
 
-Stride slicing: You can use stride slicing to extract elements from a tensor with a non-contiguous memory layout. For example, 
+Strides: You can use stride slicing to extract elements from a tensor with a non-contiguous memory layout. For example, 
 
 `x[:, ::2] would extract all rows and every other column of the tensor x.`
 
@@ -91,6 +93,10 @@ Squeeze: Squeeze is used to remove a dimension from a tensor. For example,
 
 `torch.squeeze(x, dim=1) would remove the second dimension of the tensor x.`
 
+Expand: Expand Operation is used repeat a low dimension tensor to create more dimension.
+
+`<Tensor>.expand(2, 3) would expand the tensor x to have 2 more dimensions with 2 and 3 elements respectively. if you don't want to expand a particular dimension you can pass -1 to that dimension.`
+
 update: update elements with a certain value with other value
 
 `torch.update(x, dim=1, index=torch.tensor([[0, 0], [1, 0]]), value=1) would set the elements at index 0 of the second dimension and index 1 of the second dimension of the tensor x to 1.`
@@ -100,6 +106,14 @@ where: where is used to select elements from one of two tensors based on a condi
 `torch.where(x > 0, x, torch.zeros_like(x)) would set all elements of the tensor x that are greater than 0 to their original values and all other elements to 0.`
 
 These are some og the most used tensor operations, I'll keep on adding more as I learn more about them.
+
+
+<!-- 
+##### Memory Management 
+
+Pinned memory, profiler, using gc to clean cache? finding bottle necks juggling tensors between cpu and gpu after processing.
+
+-->
 
 References -
 

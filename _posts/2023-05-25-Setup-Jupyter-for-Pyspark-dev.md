@@ -22,3 +22,8 @@ Following are steps to get the Jupyterlab setup for PySpark development.
 - Set PYSPARK_DRIVER_PYTHON path as per the binary you want to use
 - Usually PySpark is configured on on the root python environment so just make sure you are using the jupyter/IPython binaries form the same environment.
 
+
+you can have a password for your jupyter server (jupyter also allows to to point the server to different configs so on the same machine your teammates can have their own jupyter server and own password, don't need to worry about the livy and all.) With ip options set properly under  driver options you can access your jupyter setup even from a browser.
+
+
+Sharing the projects and demos would become a lot easier. As you can directly share the links to the demo notebooks.

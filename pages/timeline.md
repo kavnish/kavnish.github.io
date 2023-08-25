@@ -9,6 +9,16 @@ full-width: false
 published: true
 ---
 
+**2023-08-25**
+
+`A great framework lets you do simple stuff easily and in an intuitive way, it should be easy to get started with.`
+
+
+**2023-08-20**
+
+`TIL that some cities were left undefended during wars to preserve their beauty`
+
+
 **2023-08-08**
 
 `chrome should take the current url as a signal when searching on the same tab`
@@ -21,7 +31,7 @@ published: true
 
 **2023-07-27**
 
-`audio modality trade-offs information density for higher dimensionality, I believe solving audio efficiently needs a whole another approach that would involve first bringing the dimentionality down to discrete tokens and then learning those tokens autoregressively. Just that this audio quantization step should be audio segment importance/eventful-ness aware since our ears are sensitive to very ephemeral acoutic events which might not be avery efficiently modelled by current frame based methods.`
+`audio modality trade-offs information density for higher dimensionality, I believe solving audio efficiently needs a whole another approach that would involve first bringing the dimensionality down to discrete tokens and then learning those tokens auto-regressively. Just that this audio quantization step should be audio segment importance/eventful-ness aware since our ears are sensitive to very ephemeral acoustic events which might not be avery efficiently modelled by current frame based methods.`
 
 
 **2023-07-15**
@@ -31,7 +41,7 @@ published: true
 
 **2023-07-04**
 
-`Fun thing I noticesd in TBBT-ep-17 -- Sheldon is portrayed as super smart person but still he's having a hard time learning the mandarin language. writers played that out in a fun way without it feeling sheldon going out of character. -- or maybe it's just me assuming that smart people learn languages quickly.`
+`Fun thing I noticed in TBBT-ep-17 -- Sheldon is portrayed as super smart person but still he's having a hard time learning the mandarin language. writers played that out in a fun way without it feeling sheldon going out of character. -- or maybe it's just me assuming that smart people learn languages quickly.`
 
 **2023-07-03**
 
@@ -40,7 +50,7 @@ published: true
 
 **2023-07-03**
 
-`writing is hard and therapeutic at the same time and is incompelete without reading what you have written. it takes time to develope a muscle for it.`
+`writing is hard and therapeutic at the same time and is incomplete without reading what you have written. it takes time to develope a muscle for it.`
 
 
 **2023-07-03**
@@ -51,7 +61,7 @@ published: true
 
 **2023-07-01**
 
-`People say music bring back memories just like fragnances do sometime, exploring ways to create nostalgic mixes for 50M+ users efficiently.`
+`People say music bring back memories just like fragrances do sometime, exploring ways to create nostalgic mixes for 50M+ users efficiently.`
 
 `I am so into chrome extensions now that I have an extension to manage manage extensions better.`
 
@@ -65,7 +75,7 @@ published: true
 
 **2023-06-26**
 
-`People say music bring back memories just some fragnances do sometime, exploring ways to create nostalgic mixes for 50M+ users efficiently.`
+`People say music bring back memories just some fragrances do sometime, exploring ways to create nostalgic mixes for 50M+ users efficiently.`
 
 **2023-06-25**
 
@@ -79,9 +89,9 @@ published: true
 
 **2023-06-21**
 
-`Users have different affinities towards different features and if the user specifiers are not made available to the model it becomes diffucult to learn user level sensitivities towards different features. Hand crafting meta level sensitivity features comes handy here but not to total relief as sometimes they are very difficult to craft and excludes unimaginable patterns that you might not have thought about.`
+`Users have different affinities towards different features and if the user specifiers are not made available to the model it becomes difficult to learn user level sensitivities towards different features. Hand crafting meta level sensitivity features comes handy here but not to total relief as sometimes they are very difficult to craft and excludes unimaginable patterns that you might not have thought about.`
 
-`We looked at similarities between a users collaborative vector and average collaborative vectors of last N played and skipped songs, and the results were not as expected, apparently on a music streaming platform the songs that user skipps are not VERY different from the songs they streamed (>30s), when I think about it, it makes sense as the platform is already personalized to a level and the user only gets to skips the platform thought the user might like, Interesting thing to look at might be what fraction of skipped songs are out of their profile (beyond a threshold) as it tells us alot about how discover exposure does our platform provides. Discover exposure is itself of multiple flavour but that's the topic of another post. (Personalized/Random)` 
+`We looked at similarities between a users collaborative vector and average collaborative vectors of last N played and skipped songs, and the results were not as expected, apparently on a music streaming platform the songs that user skips are not VERY different from the songs they streamed (>30s), when I think about it, it makes sense as the platform is already personalized to a level and the user only gets to skips the platform thought the user might like, Interesting thing to look at might be what fraction of skipped songs are out of their profile (beyond a threshold) as it tells us alot about how discover exposure does our platform provides. Discover exposure is itself of multiple flavour but that's the topic of another post. (Personalized/Random)` 
 
 **2023-06-21**
 
@@ -89,7 +99,7 @@ published: true
 
 **2023-06-18**
 
-`this weekend was all about automations and extenstion on chrome, macos, slack... had a good time exploring applescript, filesaver.js, electron.js, slack SDK, ... ChatGPT makes things a lot easier but it still takes a lot to build something meaningful. This weekend was a good reminder of planning things out first on paper before jumping to code (and you def need a devlog to prevent yourself from all the cool distractions)`
+`this weekend was all about automations and extension on chrome, macos, slack... had a good time exploring AppleScript, filesaver.js, electron.js, slack SDK, ... ChatGPT makes things a lot easier but it still takes a lot to build something meaningful. This weekend was a good reminder of planning things out first on paper before jumping to code (and you def need a dev-log to prevent yourself from all the cool distractions)`
 
 
 **2023-06-16**
@@ -99,7 +109,7 @@ published: true
 
 **2023-06-16**
 
-`our top priority should be to finetune llms to respond to token limits mentioned in the context`
+`our top priority should be to fine tune LLMs to respond to token limits mentioned in the context`
 
 
 **2023-06-15**
@@ -119,7 +129,7 @@ published: true
 
 **2023-06-03**
 
-`if you want to write math equations on a Jekyll site for the first time - simply use mathjax v3 script with chtml renderer - it's plain simple and lets you have consistent render across browsers.`
+`if you want to write math equations on a Jekyll site for the first time - simply use mathJAX v3 script with chtml renderer - it's plain simple and lets you have consistent render across browsers.`
 
 **2023-05-31**
 

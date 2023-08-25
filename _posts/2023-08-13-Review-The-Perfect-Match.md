@@ -28,4 +28,3 @@ Some Notes --
 - How day by day we become more and more docile and grow more wool for these AI systems to shave.
 - “AI systems making creepy and controlling predictions”
 - Worst than being free is having a false belief of being free, the case for most first world countries, you’re like frogs in the pot being slowly boiled.
-
