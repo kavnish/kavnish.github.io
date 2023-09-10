@@ -10,6 +10,13 @@ full-width: false
 published: true
 ---
 
+#### Music Representation Learning
+- Acoustic representation using Contrastive learning 
+- Evaluation method for Indian Music
+- Cross Model Retrieval for Indian Music
+- Part of song Tagging for Intelligent Segment Sampling 
+
+
 #### Feature Interaction based point-wise re-ranking for Mixes on Wynk
 
 - Already high CTR
@@ -23,7 +30,7 @@ published: true
 - Multiple fallback systems
 - Online
 - popularity metric
-- Cooccurence based model
+- Co-occurence based model
 - Collaborative Filtering initial version
 
 #### Realtime Speech Recognition for JioMeet

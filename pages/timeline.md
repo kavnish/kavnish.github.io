@@ -11,9 +11,19 @@ date created: 2023-05-25
 date modified: 2023-08-27
 ---
 
+**2023-09-10**
+
+`If you too find most homepages distracting you might want to visit this following to setup quick searches from the chrome search without without visiting those homepages -- chrome://settings/searchEngines`
+
+
+**2023-09-09**
+
+`losing rc files is whole another level of pain`
+
+
 **2023-08-27**
 
-`I synced my blogs timeline.md with a note in the obsidian vault using linux hardlinks, it works like a charm`
+`I synced my blogs timeline.md with a note in the obsidian vault using linux hard-links, it works like a charm`
 
 
 **2023-08-26**
