@@ -15,17 +15,22 @@ published: false
 date created: 2023-09-03
 date modified: 2023-09-04
 ---
+chat -- https://chat.openai.com/c/8f4f3f71-819d-4a27-beab-a1fa80c07f54
 
 <div style="text-align:center"><img src="../assets/img/spotify-like.png"></div>
 
 Last time when you liked a song what was the intend behind it? I am pretty sure
-you either wanted to save that song to come back to later or just wanted to
+you probably wanted to save that song to come back to later or just wanted to
 signal the app that you liked the vibe and including it in recommendations.
 
 But two use cases that are broken are first one you encounter a song that you
 have already liked and feel like boosting that song to the top of the like songs
 as a mean to save it for easier discovery later and.or to signal algorithm to
 include more of these songs in the recommendations.
+
+> Have you ever wondered about the reasons behind that 'like' button you often tap when listening to music on your favorite streaming platform? More often than not, it's a subtle act with intentions—intentions to save the track for later or to nudge the app's recommendation algorithm in the direction of your musical taste.
+> 
+> But let's delve into two intriguing scenarios that often go unnoticed. First, what happens when you stumble upon a song you've already liked? Your inclination might be to boost it to the top of your 'liked songs' list. Why? Well, it could be to ensure easier rediscovery down the road or to send a clear signal to the algorithm: 'Give me more of this!
 
 Liked playlist plays random songs at instances is there any way to know if the
 user is listening to the like playlist for recent songs or for the entire
@@ -66,4 +71,4 @@ playlist. There is a fundamental difference between the like and any typical
 playlist. Typical playlists inherently have a musical theme to it but liked
 playlist usually involve very different themes and have commonality that is very
 abstract and might not be very content based. The logic to liked playlist is
-affinity based irrespective of the taste.....
+affinity based irrespective of the taste.

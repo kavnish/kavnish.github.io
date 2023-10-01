@@ -10,6 +10,10 @@ published: true
 date created: 2023-05-25
 date modified: 2023-08-27
 ---
+**2023-09-16**
+
+`Dostoyevsky was insanely good at writing chaotic scenes, he did it in most convincing ways possible.`
+
 
 **2023-09-10**
 
