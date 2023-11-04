@@ -10,6 +10,11 @@ published: true
 date created: 2023-05-25
 date modified: 2023-08-27
 ---
+
+**2023-11-04**
+
+`use rust-analyser.linkedProjects in workspace json to help rust-analyser find rust projects`
+
 **2023-09-16**
 
 `Dostoyevsky was insanely good at writing chaotic scenes, he did it in most convincing ways possible.`
