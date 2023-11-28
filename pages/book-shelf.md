@@ -18,13 +18,27 @@ full-width: false
 <table align="center">
   <tr>
     <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑</td>
+  </tr>
+  <tr>
+    <td><img src="https://m.media-amazon.com/images/I/71fSWKBI1CL.jpg" width=175 height=250></td>
+  </tr>
+</table >
+
+<table align="center">
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑</td>
+    <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑</td>
+    <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑</td>
     <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑</td>
   </tr>
   <tr>
+    <td><img src="https://m.media-amazon.com/images/I/5195+GpJgQL.jpg" width=175 height=250></td>
+    <td><img src="https://m.media-amazon.com/images/I/619lMo1ihqL.jpg" width=175 height=250></td>
     <td><img src="https://m.media-amazon.com/images/I/61zZzKlLleL.jpg" width=175 height=250></td>
     <td><img src="https://m.media-amazon.com/images/I/51JpJKAHFbL.jpg" width=175 height=250></td>
   </tr>
 </table >
+
 
 <hr style="height:10px; visibility:hidden;" />
 
