@@ -18,9 +18,11 @@ full-width: false
 <table align="center">
   <tr>
     <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑</td>
+    <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑</td>
   </tr>
   <tr>
     <td><img src="https://m.media-amazon.com/images/I/71fSWKBI1CL.jpg" width=175 height=250></td>
+    <td><img src="https://m.media-amazon.com/images/I/71S9o05xynL.jpg" width=175 height=250></td>
   </tr>
 </table >
 
