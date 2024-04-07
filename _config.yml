@@ -22,7 +22,7 @@ author: Avnish Kumar
 navbar-links:
   Timeline: "/pages/timeline"
   Posts: "/pages/blog"
-  CV: "/cv"
+  Resume: "/resume"
   Projects: "/pages/projects"
   Books: "/pages/book-shelf"
   About Me: "aboutme"
