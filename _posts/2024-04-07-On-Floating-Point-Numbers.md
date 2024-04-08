@@ -14,3 +14,4 @@ published: false
 Why can't we use floating point numbers without mantissa and 
 exponent? Why do we need to represent floating point numbers in
 scientific notation?
+
