@@ -14,13 +14,16 @@ full-width: false
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <hr style="height:10px; visibility:hidden;" />
-
 <table align="center">
   <tr>
+    <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑</td>
+    <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑⭑</td>
     <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑</td>
     <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑</td>
   </tr>
   <tr>
+    <td><img src="https://m.media-amazon.com/images/I/71vvmeDZEeL.jpg" width=175 height=250></td>
+    <td><img src="https://m.media-amazon.com/images/I/814FBA0V7JL.jpg" width=175 height=250></td>
     <td><img src="https://m.media-amazon.com/images/I/71fSWKBI1CL.jpg" width=175 height=250></td>
     <td><img src="https://m.media-amazon.com/images/I/71S9o05xynL.jpg" width=175 height=250></td>
   </tr>
