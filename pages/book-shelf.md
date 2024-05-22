@@ -14,6 +14,7 @@ full-width: false
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <hr style="height:10px; visibility:hidden;" />
+
 <table align="center">
   <tr>
     <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑⭑</td>
@@ -24,6 +25,8 @@ full-width: false
     <td><img src="https://m.media-amazon.com/images/I/815oQ6G6HDL.jpg" width=175 height=250></td>
   </tr>
 </table >
+
+<hr style="height:10px; visibility:hidden;" />
 
 <table align="center">
   <tr>
@@ -39,6 +42,8 @@ full-width: false
     <td><img src="https://m.media-amazon.com/images/I/71S9o05xynL.jpg" width=175 height=250></td>
   </tr>
 </table >
+
+<hr style="height:10px; visibility:hidden;" />
 
 <table align="center">
   <tr>
