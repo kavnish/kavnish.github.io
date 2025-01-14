@@ -21,8 +21,25 @@ full-width: false
     <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑⭑</td>
   </tr>
   <tr>
+    <td><img src="https://m.media-amazon.com/images/I/81zsOJnw1uL.jpg" width=175 height=250></td>
+    <td><img src="https://m.media-amazon.com/images/I/818l7Ujz5-L.jpg" width=175 height=250></td>
+  </tr>
+</table >
+
+<hr style="height:10px; visibility:hidden;" />
+
+<table align="center">
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑⭑</td>
+    <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑⭑</td>
+    <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑⭑</td>
+    <td style="text-align: center; vertical-align: middle;">⭑⭑⭑⭑⭑</td>
+  </tr>
+  <tr>
+    <td><img src="https://m.media-amazon.com/images/I/71kp+AGgEpL.jpg" width=175 height=250></td>
+    <td><img src="https://m.media-amazon.com/images/I/71rpa1-kyvL.jpg" width=175 height=250></td>
     <td><img src="https://m.media-amazon.com/images/I/51WUtOUPQgS.jpg" width=175 height=250></td>
-    <td><img src="https://m.media-amazon.com/images/I/815oQ6G6HDL.jpg" width=175 height=250></td>
+    <td><img src="https://m.media-amazon.com/images/I/815oQ6G6HDL.jpg" width=175 height=250></td> 
   </tr>
 </table >
 
